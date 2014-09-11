@@ -4,9 +4,9 @@ public class Calculator {
 
 	public static void main(String[] args) {
 		// TODO 
-		calculateRed();
-		calculateGreen();
-		calculateBlue();
+		calculateRed;
+		calculateGreen;
+		calculateBlue;
 		
 	}
 	
@@ -25,5 +25,3 @@ public class Calculator {
 			int blue2=60;
 			System.out.println((blue1 + blue2) / 2);
 			}
-		
-}
