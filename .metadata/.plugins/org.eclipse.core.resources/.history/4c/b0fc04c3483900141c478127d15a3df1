@@ -1,0 +1,17 @@
+
+
+public class Calculator {
+
+	public static void main(String[] args) {
+		// TODO 
+		int red1=30;
+		int green1=26;
+		int blue1=10;
+		int red2=64;
+		int green2=72;
+		int blue2=144;
+		public static void calculateRed = {System.out.println((red1 + red2) / 2)};
+		public static void calculateGreen = {System.out.println((green1 + green2) / 2)};
+		public static void calculateBlue = {System.out.println((blue1 + blue2) / 2)};
+		}
+}
